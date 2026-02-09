@@ -1,6 +1,6 @@
 {
-  "name": "Game Center",
-  "short_name": "GameCenter",
+  "name": "Game Center 2",
+  "short_name": "GameCenter2",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2c3e50",
